@@ -1,5 +1,5 @@
-x = input()
+z = input()
 y = input()
 
-print (x)
+print (z)
 print (y)
