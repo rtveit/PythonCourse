@@ -1,0 +1,16 @@
+#!/bin/bash
+
+echo " What is your chose" 
+
+echo "1 - chose the red pill "
+echo "2 - the blue pill " 
+echo "3 - Green pill "
+
+read meny;
+
+case $meny in
+	1) echo " thats what neno did too";; 
+	2) echo " like the sky ";;
+	3) echo " are you not a fan of skynet2 ";;
+	*) echo " aa stick to the given numbers !";; 
+esac

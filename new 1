@@ -1,0 +1,177 @@
+get-AppxPackage Microsoft.Windows.Photos_15.1120.13270.0_x64__8wekyb3d8bbwe | remove-AppxPackage
+get-AppxPackage Microsoft.Office.OneNote_17.6366.15391.0_x64__8wekyb3d8bbwe | remove-AppxPackage
+get-AppxPackage Microsoft.WindowsStore_2015.23.23.0_x64__8wekyb3d8bbwe | remove-AppxPackage
+get-AppxPackage Microsoft.ZuneMusic_3.6.15131.0_x64__8wekyb3d8bbwe      | remove-AppxPackage
+get-AppxPackage Microsoft.XboxApp_11.11.19012.0_x64__8wekyb3d8bbwe      | remove-AppxPackage
+get-AppxPackage Microsoft.WindowsMaps_4.1511.3161.0_x64__8wekyb3d8bbwe  | remove-AppxPackage
+get-AppxPackage Microsoft.ZuneVideo_3.6.15361.0_x64__8wekyb3d8bbwe      | remove-AppxPackage
+get-AppxPackage Microsoft.BingWeather_4.7.118.0_x86__8wekyb3d8bbwe      | remove-AppxPackage
+get-AppxPackage Microsoft.People_10.0.3030.0_x64__8wekyb3d8bbwe         | remove-AppxPackage
+get-AppxPackage Microsoft.MicrosoftEdge_20.10240.16384.0_neutral__8wekyb3d8bbwe | remove-AppxPackage
+
+bilder 
+Name              : Microsoft.Windows.Photos
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 15.1120.13270.0
+PackageFullName   : Microsoft.Windows.Photos_15.1120.13270.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.Windows.Photos_15.1120.13270.0_x64__8wekyb3d
+                    8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.Photos_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.22929.0_x64__8wekyb3d8bbwe, Microsoft.NET.Native.Fram
+                    ework.1.1_1.0.23115.0_x64__8wekyb3d8bbwe, Microsoft.NET.Native.Runtime.1.1_1.1.2340
+                    6.0_x64__8wekyb3d8bbwe, Microsoft.Windows.Photos_15.1120.13270.0_neutral_split.scal
+                    e-125_8wekyb3d8bbwe...}
+onenote
+Name              : Microsoft.Office.OneNote
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 17.6366.15391.0
+PackageFullName   : Microsoft.Office.OneNote_17.6366.15391.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.Office.OneNote_17.6366.15391.0_x64__8wekyb3d
+                    8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.Office.OneNote_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.22929.0_x64__8wekyb3d8bbwe, Microsoft.Office.OneNote_
+                    17.6366.15391.0_neutral_nb-no_8wekyb3d8bbwe}
+store
+Name              : Microsoft.WindowsStore
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 2015.23.23.0
+PackageFullName   : Microsoft.WindowsStore_2015.23.23.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.WindowsStore_2015.23.23.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.WindowsStore_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.22929.0_x64__8wekyb3d8bbwe, Microsoft.NET.Native.Fram
+                    ework.1.1_1.0.23115.0_x64__8wekyb3d8bbwe, Microsoft.NET.Native.Runtime.1.1_1.1.2340
+                    6.0_x64__8wekyb3d8bbwe, Microsoft.WindowsStore_2015.23.23.0_neutral_split.scale-100
+                    _8wekyb3d8bbwe...}
+groove musikk
+Name              : Microsoft.ZuneMusic
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 3.6.15131.0
+PackageFullName   : Microsoft.ZuneMusic_3.6.15131.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.ZuneMusic_3.6.15131.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.ZuneMusic_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.22929.0_x64__8wekyb3d8bbwe, Microsoft.ZuneMusic_3.6.1
+                    5131.0_neutral_resources.scale-140_8wekyb3d8bbwe, Microsoft.ZuneMusic_3.6.15131.0_n
+                    eutral_resources.language-nb_8wekyb3d8bbwe, Microsoft.ZuneMusic_3.6.15131.0_neutral
+                    _resources.scale-125_8wekyb3d8bbwe}
+xbox
+Name              : Microsoft.XboxApp
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 11.11.19012.0
+PackageFullName   : Microsoft.XboxApp_11.11.19012.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.XboxApp_11.11.19012.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.XboxApp_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.22929.0_x64__8wekyb3d8bbwe, Microsoft.NET.Native.Fram
+                    ework.1.1_1.0.23115.0_x64__8wekyb3d8bbwe, Microsoft.NET.Native.Runtime.1.1_1.1.2340
+                    6.0_x64__8wekyb3d8bbwe}
+kart
+Name              : Microsoft.WindowsMaps
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 4.1511.3161.0
+PackageFullName   : Microsoft.WindowsMaps_4.1511.3161.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.WindowsMaps_4.1511.3161.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.WindowsMaps_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.22929.0_x64__8wekyb3d8bbwe, Microsoft.NET.Native.Fram
+                    ework.1.1_1.0.23115.0_x64__8wekyb3d8bbwe, Microsoft.NET.Native.Runtime.1.1_1.1.2340
+                    6.0_x64__8wekyb3d8bbwe, Microsoft.WindowsMaps_4.1511.3161.0_neutral_split.scale-125
+                    _8wekyb3d8bbwe...}
+tv og film
+Name              : Microsoft.ZuneVideo
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 3.6.15361.0
+PackageFullName   : Microsoft.ZuneVideo_3.6.15361.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.ZuneVideo_3.6.15361.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.ZuneVideo_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.22929.0_x64__8wekyb3d8bbwe, Microsoft.ZuneVideo_3.6.1
+                    5361.0_neutral_resources.scale-150_8wekyb3d8bbwe, Microsoft.ZuneVideo_3.6.15361.0_n
+                    eutral_resources.scale-125_8wekyb3d8bbwe, Microsoft.ZuneVideo_3.6.15361.0_neutral_r
+                    esources.language-nb_8wekyb3d8bbwe}
+
+Name              : Microsoft.BingWeather
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 4.7.118.0
+PackageFullName   : Microsoft.BingWeather_4.7.118.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.BingWeather_4.7.118.0_x86__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.BingWeather_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.22929.0_x86__8wekyb3d8bbwe, Microsoft.NET.Native.Fram
+                    ework.1.1_1.0.23115.0_x86__8wekyb3d8bbwe, Microsoft.NET.Native.Runtime.1.1_1.1.2340
+                    6.0_x86__8wekyb3d8bbwe, Microsoft.BingWeather_4.7.118.0_neutral_split.language-nb_8
+                    wekyb3d8bbwe}
+
+
+
+
+
+
+Name              : Microsoft.People
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 10.0.3030.0
+PackageFullName   : Microsoft.People_10.0.3030.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.People_10.0.3030.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.People_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.22929.0_x64__8wekyb3d8bbwe, Microsoft.NET.Native.Fram
+                    ework.1.1_1.0.23115.0_x64__8wekyb3d8bbwe, Microsoft.NET.Native.Runtime.1.1_1.1.2340
+                    6.0_x64__8wekyb3d8bbwe, Microsoft.People_10.0.3030.0_neutral_split.scale-125_8wekyb
+                    3d8bbwe...}
